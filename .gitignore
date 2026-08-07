@@ -1,0 +1,15 @@
+# Binarios y artefactos de Go
+*.exe
+*.test
+*.out
+/bin/
+/dist/
+
+# Editor / SO
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Config local de Claude
+.claude/settings.local.json
