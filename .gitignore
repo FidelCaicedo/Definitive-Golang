@@ -13,3 +13,10 @@ Thumbs.db
 
 # Config local de Claude
 .claude/settings.local.json
+
+# Biblioteca personal: libros con copyright, solo locales (no subir a GitHub)
+docs/books/*.epub
+docs/books/learning-go/
+docs/books/100-go-mistakes/
+docs/books/concurrency-in-go/
+docs/books/intro-to-algorithms/
