@@ -1,7 +1,7 @@
 # Plan de estudio — de cero a artesano de Go
 
 **Presupuesto real:** 3-5 h/semana. **Enfoque:** proyecto desde el día 1.
-**Regla de oro:** cada sesión termina con código escrito por Fabián y commiteado, aunque sean 30 líneas.
+**Regla de oro:** cada sesión termina con código escrito por Fidel y commiteado, aunque sean 30 líneas.
 
 ## Proyecto norte
 

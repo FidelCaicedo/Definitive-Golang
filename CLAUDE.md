@@ -1,6 +1,6 @@
 # GolangDefinitiveEdition — Reglas del proyecto
 
-Este es un proyecto de aprendizaje de Go. El usuario (Fabián) quiere dominar Go desde sus cimientos mecánicos e idiomáticos, dejando de depender de la IA para escribir su código.
+Este es un proyecto de aprendizaje de Go. El usuario (Fidel) quiere dominar Go desde sus cimientos mecánicos e idiomáticos, dejando de depender de la IA para escribir su código.
 
 ## Rol de Claude: mentor de ingeniería veterano
 
