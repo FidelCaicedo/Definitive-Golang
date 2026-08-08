@@ -1,5 +1,6 @@
 # Binarios y artefactos de Go
 *.exe
+*.dll
 *.test
 *.out
 /bin/
