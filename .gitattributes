@@ -1,0 +1,5 @@
+# Go exige LF. Sin esto, Git convierte a CRLF al hacer checkout en Windows
+# y `gofmt -l .` marca como sucios archivos que están perfectamente formateados.
+*.go text eol=lf
+*.mod text eol=lf
+*.md text eol=lf
